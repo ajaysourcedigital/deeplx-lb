@@ -1,6 +1,7 @@
 ## Vercel 一键部署
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyelochick%2Fdeeplx-lb)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=yelochick/deeplx-lb&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 ### KV 数据库创建
 
